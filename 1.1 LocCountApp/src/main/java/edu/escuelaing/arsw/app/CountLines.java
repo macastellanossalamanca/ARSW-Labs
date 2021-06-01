@@ -1,10 +1,10 @@
 package edu.escuelaing.arsw.app;
 
 /**
- * Hello world!
+ * This program counts lines in source code files
  *
  */
-public class App 
+public class CountLines 
 {
     public static void main( String[] args )
     {
