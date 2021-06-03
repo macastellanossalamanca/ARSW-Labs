@@ -12,3 +12,6 @@ Esta aplicación cuenta las lineas de código de un fichero, para el cual se tie
 - **Para ejecutar con parametro "phy":** java -cp "./target/classes" edu.escuelaing.arsw.app.CountLines phy CountLines.java
 - **Para ejecutar con parametro "loc":** java -cp "./target/classes" edu.escuelaing.arsw.app.CountLines loc CountLines.java
 - **Para ejecutar las pruebas:** mvn test
+
+# Ejemplo Resultado
+![LocCountApp](https://user-images.githubusercontent.com/44925834/120569617-e4465200-c3db-11eb-8b5c-87c7e3e7bc46.jpg)
