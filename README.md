@@ -6,3 +6,6 @@
 ### Talleres
 - [Mi primera App](https://github.com/macastellanossalamanca/ARSW-Labs/tree/main/1.%20miprimera-app)
 - [Loc Count App](https://github.com/macastellanossalamanca/ARSW-Labs/tree/main/1.1%20LocCountApp)
+
+## [Licencia]()
+
