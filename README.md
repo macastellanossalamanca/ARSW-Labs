@@ -8,5 +8,5 @@
 - [Loc Count App](https://github.com/macastellanossalamanca/ARSW-Labs/tree/main/1.1%20LocCountApp)
 
 ## Licencia
-- Este proyecto esta bajo la Licencia GNU General Public License, para más detalles revisa el archivo [Licencia](https://github.com/macastellanossalamanca/ARSW-Labs/blob/main/License.txt)
+- Todos los proyectos de este repositorio están bajo la Licencia GNU General Public License, para más detalles revisa el archivo [Licencia](https://github.com/macastellanossalamanca/ARSW-Labs/blob/main/License.txt)
 
