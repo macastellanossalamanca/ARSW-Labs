@@ -2,7 +2,8 @@
 ## - Miguel Castellanos
 
 # Descripción
-Esta aplicación permite conocer la desviación de n números ingresados por el usuario. Esta información es almacenada en una lista implementada en este mismo repo.
+Esta aplicación permite conocer la desviación y media de n números ingresados por el usuario. Esta información es almacenada en una lista implementada en este mismo repo.
+Para la demostración, al ejecutar el programa carga los datos de prueba desde  un archivo "prueba.txt., los almacena en la lista y luego los procesa.
 
 # Compile and run instructions.
 
