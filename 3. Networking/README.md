@@ -77,3 +77,6 @@ Se debe correr el servidor y seguido el cliente, para finalmente hacer las solic
 ### Ejemplo Resultado
 ![image](https://user-images.githubusercontent.com/44925834/121762661-071fe700-cafd-11eb-80f3-760968f9464c.png)
 
+## Licencia
+- Todos los proyectos de este repositorio están bajo la Licencia GNU General Public License, para más detalles revisa el archivo [Licencia](https://github.com/macastellanossalamanca/ARSW-Labs/blob/main/License.txt)
+
