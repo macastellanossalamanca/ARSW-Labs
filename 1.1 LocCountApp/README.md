@@ -15,3 +15,6 @@ Esta aplicación cuenta las lineas de código de un fichero, para el cual se tie
 
 # Ejemplo Resultado
 ![LocCountApp](https://user-images.githubusercontent.com/44925834/120569617-e4465200-c3db-11eb-8b5c-87c7e3e7bc46.jpg)
+
+## Licencia
+- Todos los proyectos de este repositorio están bajo la Licencia GNU General Public License, para más detalles revisa el archivo [Licencia](https://github.com/macastellanossalamanca/ARSW-Labs/blob/main/License.txt)
