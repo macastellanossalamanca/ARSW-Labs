@@ -1,6 +1,6 @@
-# NetWorking
+# NetWorking - Junio 5 2021
 ## - Miguel Castellanos
-## - Junio 5 2021
+
 
 # Descripción
 Este repositorio contiene diferentes ejercicios separados por paquetes, en los cuales se le va dando solución a los ejercicios del taller de Networking.
