@@ -1,5 +1,7 @@
-# NetWorking
+# NetWorking 
+### Junio 11 2021
 ## - Miguel Castellanos
+
 
 # Descripción
 Este repositorio contiene diferentes ejercicios separados por paquetes, en los cuales se le va dando solución a los ejercicios del taller de Networking.
@@ -9,6 +11,7 @@ Este repositorio contiene diferentes ejercicios separados por paquetes, en los c
 - **Para compilar**: mvn package
 - **Para ejecutar:** Se debe correr la clase con main en cada paquete dependiendo el punto del taller:
 - **Para ejecutar las pruebas:** mvn test
+- **Para generar la documentación use:** mvn javadoc:javadoc
 
 ## URLReader: 
 
