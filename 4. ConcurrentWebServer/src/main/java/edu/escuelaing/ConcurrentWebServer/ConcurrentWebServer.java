@@ -3,6 +3,8 @@ package edu.escuelaing.ConcurrentWebServer;
 
 
 import java.net.*;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.io.*;
 import java.io.ObjectInputStream.GetField;
 public class ConcurrentWebServer {
@@ -23,7 +25,10 @@ public class ConcurrentWebServer {
 	
 	public void iniciarServidor(String[] args) throws IOException {
 		
+		ExecutorService hilos = Executors.newFixedThreadPool(10);
 		
+        Socket clientSocket = null;
+        
 		while(ejecutando)
 		{
 			ServerSocket serverSocket = null;
@@ -33,35 +38,7 @@ public class ConcurrentWebServer {
 	            System.err.println("Could not listen on port: 35000.");
 	            System.exit(1);
 	        }
-	        Socket clientSocket = null;
-	        try {
-	            System.out.println("Listo para recibir ...");
-	            clientSocket = serverSocket.accept();
-	        } catch (IOException e) {
-	            System.err.println("Accept failed.");
-	            System.exit(1);
-	        }
-	        PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
-	        BufferedReader in = new BufferedReader(
-	                new InputStreamReader(clientSocket.getInputStream()));
-	        String inputLine, outputLine;
-	        while ((inputLine = in.readLine()) != null) {
-	            System.out.println("Received: " + inputLine);
-	            if (!in.ready()) {
-	                break;
-	            }
-	        }
-
-	        outputLine = createResponse();
-
-	        out.println(outputLine);
-
-	        out.close();
-
-	        in.close();
-
-	        clientSocket.close();
-
+	        hilos.execute(new WebThread(serverSocket.accept()));
 	        serverSocket.close();
 		}
 		
