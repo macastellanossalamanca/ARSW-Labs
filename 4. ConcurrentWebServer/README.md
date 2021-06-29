@@ -13,7 +13,6 @@ Se realizó la implementación de un servidor web con la capacidad de atender mu
 - **Para ejecutar las pruebas:** mvn test
 - **Para generar la documentación use:** mvn javadoc:javadoc
 
-# Pruebas Realizadas con PostMan
 
 ## Licencia
 - Todos los proyectos de este repositorio están bajo la Licencia GNU General Public License, para más detalles revisa el archivo [Licencia](https://github.com/macastellanossalamanca/ARSW-Labs/blob/main/License.txt)
