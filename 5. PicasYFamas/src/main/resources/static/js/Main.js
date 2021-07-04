@@ -19,7 +19,7 @@ function PicasYFijas() {
 		document.registro.valor1.value = valor;
 		document.registro.valorP1.value = p1;
 		document.registro.valorF1.value = f1;
-		document.registro.prueba.value = num;
+		
 		if(f1 == 4){
 			document.getElementById("estado").innerHTML = "Ha Ganado!!!"
 		}
@@ -28,7 +28,7 @@ function PicasYFijas() {
 		document.registro.valor2.value = valor;
 		document.registro.valorP2.value = p1;
 		document.registro.valorF2.value = f1;
-		document.registro.prueba2.value = num;
+		
 		if(f1 == 4){
 			document.getElementById("estado").innerHTML = "Ha Ganado!!!"
 		}
@@ -37,7 +37,7 @@ function PicasYFijas() {
 		document.registro.valor3.value = valor;
 		document.registro.valorP3.value = p1;
 		document.registro.valorF3.value = f1;
-		document.registro.prueba3.value = num;
+		
 		if(f1 == 4){
 			document.getElementById("estado").innerHTML = "Ha Ganado!!!"
 		}
@@ -46,7 +46,7 @@ function PicasYFijas() {
 		document.registro.valor4.value = valor;
 		document.registro.valorP4.value = p1;
 		document.registro.valorF4.value = f1;
-		document.registro.prueba4.value = num;
+		
 		if(f1 == 4){
 			document.getElementById("estado").innerHTML = "Ha Ganado!!!"
 		}
@@ -55,7 +55,7 @@ function PicasYFijas() {
 		document.registro.valor5.value = valor;
 		document.registro.valorP5.value = p1;
 		document.registro.valorF5.value = f1;
-		document.registro.prueba5.value = num;
+		
 		if(f1 == 4){
 			document.getElementById("estado").innerHTML = "Ha Ganado!!!"
 		}
