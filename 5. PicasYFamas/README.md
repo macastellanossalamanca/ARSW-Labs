@@ -11,7 +11,7 @@ Este programa implementa el juego de Picas y Fijas, para el cual se tienen 5 int
 # Compile and run instructions.
 
 - **Para compilar**: mvn package
-- **Para ejecutar:** java -cp "./target/classes" edu.escuelaing.PicasYFijas.App, luego abrir el explorador en local host por el puerto 8080
+- **Para ejecutar:** java -cp target/classes;target/dependency/* edu.escuelaing.PicasYFijas.App, luego abrir el explorador en local host por el puerto 8080
 - **Para ejecutar las pruebas:** mvn test
 - **Para generar la documentación use:** mvn javadoc:javadoc
 
