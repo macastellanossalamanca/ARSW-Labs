@@ -2,7 +2,7 @@
 ### Junio 21 2021
 ## - Miguel Castellanos
 
-[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://picasyfijasmacs.herokuapp.com/)
+[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://picasyfijasmacs.herokuapp.com/game)
 
 
 # Descripción
@@ -11,7 +11,7 @@ Este programa implementa el juego de Picas y Fijas, para el cual se tienen 5 int
 # Compile and run instructions.
 
 - **Para compilar**: mvn package
-- **Para ejecutar:** java -cp "./target/classes" edu.escuelaing.PicasYFijas.App, luego abrir el explorador en local host por el puerto 8080
+- **Para ejecutar:** java -cp target/classes;target/dependency/* edu.escuelaing.PicasYFijas.App, luego abrir el explorador en local host por el puerto 8080
 - **Para ejecutar las pruebas:** mvn test
 - **Para generar la documentación use:** mvn javadoc:javadoc
 
