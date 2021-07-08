@@ -12,6 +12,7 @@
 - [5.Picas y Famas](https://github.com/macastellanossalamanca/ARSW-Labs/tree/main/5.%20PicasYFamas)
 - [6.Tablero Interactivo en Linea](https://github.com/macastellanossalamanca/ARSW-Labs/tree/main/6%20.TableroDibujo)
 - [7.Interactive Board](https://github.com/macastellanossalamanca/ARSW-Labs/tree/main/7.%20InteractiveBoard)
+- [8. Secure Interactive Board](https://github.com/macastellanossalamanca/ARSW-Labs/tree/main/8.%20Secure%20Interactive%20Board)
 ## Licencia
 - Todos los proyectos de este repositorio están bajo la Licencia GNU General Public License, para más detalles revisa el archivo [Licencia](https://github.com/macastellanossalamanca/ARSW-Labs/blob/main/License.txt)
 
