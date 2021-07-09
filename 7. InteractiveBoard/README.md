@@ -21,6 +21,7 @@ Este tablero permite la interacción simultanea de varios usuarios en un tablero
 
 ![image](https://user-images.githubusercontent.com/44925834/124995202-9f31c300-e00c-11eb-890b-fe6cb72180f9.png)
 
+![image](https://user-images.githubusercontent.com/44925834/125012002-0d877d00-e02f-11eb-801e-eb8a8b19cdb5.png)
 
 ## Licencia
 - Todos los proyectos de este repositorio están bajo la Licencia GNU General Public License, para más detalles revisa el archivo [Licencia](https://github.com/macastellanossalamanca/ARSW-Labs/blob/main/License.txt)
